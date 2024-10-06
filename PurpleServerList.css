@@ -102,7 +102,7 @@
 }
 
 #app-mount .guilds_a4d4d9.hidden_fea3ef+.base_a4d4d9 {
-    top: 12 !important;
+    top: 0 !important;
 }
 
 #app-mount .expandedFolderBackground_bc7085 {
@@ -158,6 +158,7 @@
     transform: none;
     width: auto;
     height: auto;
+    place-content: center;
 }
 
 #app-mount .guilds_a4d4d9 [class*=listItem]:not([class*=listItemWrapper])>.wrapper_c5f96a {
