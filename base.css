@@ -544,7 +544,7 @@ div[class^=tutorialContainer]+.listItem_c96c45 .pill_db6521,
 }
 
 .chat_a7d72e .textArea_d0696b .placeholder_a552a6:after {
-    font-size: 1rem;
+    font-size: 4rem;
     line-height: 1.375rem;
     color: var(--Text);
     content: "Write a message...";
